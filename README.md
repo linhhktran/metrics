@@ -59,16 +59,16 @@ After successfully extracting required data, each of these metrics is **calculat
   - 🔹 **High acquisition cost**, indicating significant spending on marketing and sales to gain new customers.  
 
 - **Average Revenue Per User (ARPU) = $284.36**  
-  - 🔹 Each customer generates **$284.36** in revenue on average, which helps in revenue forecasting.  
+  - 🔹 No comments.
 
 - **Cost of Goods Sold (COGS) = $22,540**  
-  - 🔹 **High operational costs**, impacting overall profitability.  
+  - 🔹 **High operational costs**, can be significantly impacting overall profitability.  
 
 - **Gross Margin = 72.85%**  
   - 🔹 The company retains **72.85% of revenue** after covering direct costs, which is a **strong margin** for a SaaS business.  
 
 - **Lifetime Value (LTV) = $1,930.80**  
-  - 🔹 Each customer is expected to generate **$1,930.80** over their lifetime, indicating their long-term value.  
+  - 🔹No comments.
 
 - **LTV/CAC Ratio = 1.767**  
   - 🔹 Since **LTV/CAC < 3**, the company **is not yet in an optimal profitability range**.  
