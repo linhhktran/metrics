@@ -8,6 +8,13 @@ Background: Streamline Pro is a comprehensive project management and collaborati
 This project is implemented using **Python, Pandas, and Google Colab** to analyze business profitability and customer acquisition efficiency.
 
 ---
+## 📊 Data Sources
+
+Please obtain all data sources from below folder: 
+
+https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv?usp=drive_link
+
+---
 
 ## 📊 Key Metrics Explained
 
